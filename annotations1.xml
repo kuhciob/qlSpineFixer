@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1315764</id>
+      <size>9</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-10-16 10:20:08.819188+00:00</created>
+      <updated>2024-10-22 14:19:35.057138+00:00</updated>
+      <subset>Train</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>8</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1318202</id>
+          <start>0</start>
+          <stop>8</stop>
+          <url>https://app.cvat.ai/api/jobs/1315764</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ivan179</username>
+        <email>ivan@quantumlingual.com</email>
+      </owner>
+      <assignee>
+        <username>ivan179</username>
+        <email>ivan@quantumlingual.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>person</name>
+          <color>#c06060</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>spine</name>
+          <color>#66ff66</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-10-22 14:19:45.828169+00:00</dumped>
+  </meta>
+  <image id="0" name="Screenshot_1.png" width="1118" height="1190">
+    <box label="spine" source="auto" occluded="0" xtl="83.00" ytl="67.00" xbr="951.00" ybr="1174.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="564.71,967.95;557.73,942.04;549.76,919.12;542.78,900.18;536.80,877.26;530.82,853.34;529.83,830.42;526.84,806.50;519.86,783.57;514.88,761.65;506.90,736.73;493.95,716.80;481.99,697.86;471.00,681.20;457.70,663.30;450.10,648.00;442.80,632.10;434.10,615.10;428.10,602.50;421.50,591.20;415.90,582.30;409.90,573.30;404.90,565.00;400.30,555.30" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="Screenshot_10.png" width="923" height="1241">
+    <box label="spine" source="auto" occluded="0" xtl="56.00" ytl="23.00" xbr="858.00" ybr="1239.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="485.86,1037.34;478.89,1007.30;470.37,978.20;461.85,955.65;452.28,930.60;447.30,913.55;440.23,892.04;437.21,875.93;430.77,855.45;420.69,832.90;411.64,812.32;404.16,796.31;393.50,775.40;384.90,757.90;373.80,739.90;360.20,723.10;351.80,706.20;343.10,688.20;335.10,672.20;328.80,659.20;323.40,649.80;320.00,640.60;315.10,631.00;311.20,621.20" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="Screenshot_2.png" width="1029" height="980">
+    <box label="spine" source="semi-auto" occluded="0" xtl="118.00" ytl="131.30" xbr="864.00" ybr="965.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="467.51,779.57;459.91,748.70;452.78,717.82;442.33,692.17;428.56,667.95;420.01,645.15;413.36,624.73;407.18,608.58;402.91,591.48;398.16,577.70;394.36,559.18;390.08,537.80;382.96,518.80;374.41,502.65;363.96,487.93;356.84,472.26;347.34,452.78;338.30,434.70;330.70,419.10;323.60,405.30;317.40,392.50;312.66,382.48;308.39,375.36;303.16,367.76" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="Screenshot_3.png" width="594" height="944">
+    <box label="spine" source="auto" occluded="0" xtl="94.00" ytl="100.00" xbr="533.00" ybr="944.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="318.30,577.40;321.00,554.90;322.40,538.00;322.90,524.30;323.80,507.40;324.20,491.40;327.00,474.00;330.20,458.90;335.30,445.10;338.90,431.90;344.90,417.20;353.10,399.80;358.60,380.20;361.80,364.60;360.40,347.20;359.50,328.50;358.10,311.10;356.70,291.40;354.50,276.30;349.90,263.50;347.60,253.00;345.70,242.00;349.00,232.40;352.60,219.10" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="Screenshot_4.png" width="1123" height="1265">
+    <box label="spine" source="auto" occluded="0" xtl="86.00" ytl="32.00" xbr="956.00" ybr="1261.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="551.38,1043.92;546.79,1017.86;543.72,990.27;537.08,965.75;526.86,939.69;521.75,923.34;516.13,901.88;512.55,882.98;509.00,861.50;506.40,839.00;502.80,815.50;496.70,795.60;490.60,777.20;482.92,761.38;470.66,742.98;457.89,720.50;448.69,695.98;443.58,679.63;436.94,665.32;431.32,651.53;426.21,640.29;422.12,631.09;418.54,621.38;413.95,613.21" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="Screenshot_5.png" width="1331" height="1254">
+    <box label="spine" source="auto" occluded="0" xtl="232.00" ytl="123.00" xbr="1121.00" ybr="1234.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="698.56,1037.09;691.97,1009.29;683.87,983.46;676.78,955.60;667.16,934.33;658.55,917.11;652.97,900.90;646.90,880.13;643.35,865.39;639.81,845.14;638.29,826.95;634.23,807.71;624.60,786.90;614.00,769.20;603.80,753.50;594.20,737.80;583.10,720.60;575.00,704.90;566.40,690.20;558.20,676.50;551.20,663.80;545.60,652.70;540.50,642.00;534.00,630.90" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="Screenshot_6.png" width="1251" height="1213">
+    <box label="spine" source="auto" occluded="0" xtl="150.00" ytl="90.00" xbr="1078.00" ybr="1202.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="664.80,999.00;660.40,966.20;657.50,935.30;653.60,908.40;650.60,881.90;647.20,859.40;644.20,839.80;639.80,814.80;635.90,796.70;630.00,780.00;621.70,761.40;612.90,745.30;601.60,728.60;590.80,713.40;581.00,697.80;567.90,680.10;556.00,664.00;547.20,650.20;538.90,637.50;526.60,624.20;517.80,613.00;512.00,604.60;506.10,596.30;500.20,588.50" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="Screenshot_7.png" width="1372" height="1266">
+    <box label="spine" source="auto" occluded="0" xtl="110.00" ytl="211.00" xbr="1101.00" ybr="1249.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="661.31,1053.19;654.15,1027.63;648.01,999.50;645.97,968.31;641.88,942.23;640.34,917.18;637.27,897.24;635.74,877.29;634.21,859.91;631.14,842.01;627.05,824.12;616.82,801.62;607.62,785.25;595.86,768.89;577.45,748.95;559.55,727.98;549.32,711.11;536.54,698.84;525.29,687.59;518.13,677.87;510.97,669.18;506.88,663.56;500.75,657.93;496.66,652.82" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="Screenshot_8.png" width="698" height="1215">
+    <box label="spine" source="auto" occluded="0" xtl="121.00" ytl="101.00" xbr="602.00" ybr="1177.00" z_order="0">
+    </box>
+    <points label="spine" source="manual" occluded="0" points="339.37,600.89;340.38,580.53;342.42,563.23;342.42,544.92;344.45,523.55;348.52,507.27;352.59,482.85;356.66,462.49;364.80,443.16;369.89,424.84;372.95,406.53;374.98,389.23;374.98,369.89;376.00,348.52;374.98,327.15;374.98,308.84;371.93,293.57;366.84,279.33;358.70,265.08;360.73,255.92;363.79,250.83;366.84,243.71;368.88,235.57;371.93,226.41" z_order="0">
+    </points>
+  </image>
+</annotations>
